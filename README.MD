@@ -1,6 +1,6 @@
 ### Adsorption graph generator based on extended Freundlich Isotherm for binary and ternary mixtures 
 
-This code is a simple multiple graph generator for adsorption of binary and ternary mixtures based on extended Freudlich Isotherm. It is written in Python and the matplotlib library has been used to generate the graphs.
+This code is a simple multiple graph generator for adsorption of binary and ternary mixtures based on extended Freundlich Isotherm. It is written in Python and the matplotlib library has been used to generate the graphs.
 
 
 ### Instruction to run the script
