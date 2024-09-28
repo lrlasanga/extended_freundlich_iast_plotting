@@ -18,5 +18,6 @@ Example:
 ```python plot_ternary.py --file data/3-Components.csv --A CH3Cl --B CH4 --C CCl4```
 
 
-### Note: .csv file should be according to the format available in the data directory sample
-### Initial guesses used for the alpha and beta parameters could be changed ###
+### Notes:
+1. .csv file should be according to the format available in the data directory sample
+2. Initial guesses used for the alpha and beta parameters could be changed ###
